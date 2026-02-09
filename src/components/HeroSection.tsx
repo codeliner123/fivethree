@@ -143,7 +143,7 @@ export default function HeroSection() {
                 textShadow: "0 0 20px rgba(255, 255, 255, 0.1)"
               }}
             >
-              Not billed until late 2027
+             /*Not billed until late 2027*/
             </p>
           </motion.div>
         </div>
